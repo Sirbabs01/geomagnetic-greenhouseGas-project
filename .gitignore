@@ -1,0 +1,6 @@
+# outputs made by the notebook and the download script
+figures/
+tables/
+ionosphere_data/
+.ipynb_checkpoints/
+__pycache__/
