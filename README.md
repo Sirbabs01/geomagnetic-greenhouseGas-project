@@ -2,7 +2,7 @@
 
 Code and data for the study of how increasing carbon dioxide (CO₂) affects the ionosphere above Roquetes, Spain (Ebro Observatory, URSI code EB040), and whether it changes the way the ionosphere responds to geomagnetic storms and to solar activity. The analysis uses daily ionosonde observations of total electron content (TEC), the F2-layer critical frequency (foF2), and the F2-layer peak height (hmF2) from 1988 to 2026.
 
-**Authors:** Oluwasegun Babalola-Jacobs David, H. A. Lawal, [third author]
+**Authors:** Oluwasegun Babalola-Jacobs David, H. A. Lawal
 
 **Manuscript:** in preparation for an AGU journal. A preliminary version of this work was presented at the International Beacon Satellite Symposium 2025 (Rome, Italy). The analysis in this repository replaces the preliminary one; the changes are listed in the notebook and in the manuscript.
 
