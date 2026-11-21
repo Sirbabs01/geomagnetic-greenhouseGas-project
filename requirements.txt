@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+statsmodels
+pygam
+shap
+tensorflow
+nbformat
+jupyter
+requests
