@@ -137,4 +137,6 @@ If you use this code or dataset, please cite the paper once it is published. Unt
 
 ## Licence
 
-[Choose a licence before making the repository public, for example MIT for the code.]
+The code in this repository (the notebook and build_dataset.py) is released under the MIT License. See the LICENSE file.
+
+The data in the data folder are not covered by this licence. They come from NOAA GML, NASA OMNIWeb and GIRO, and remain the property of those providers. Please follow their data use policies and cite them as listed under "References for the data" above.
